@@ -1,0 +1,2 @@
+# kouteibot
+yuunachan say 'yes'
